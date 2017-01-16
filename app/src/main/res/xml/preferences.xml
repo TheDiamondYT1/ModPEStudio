@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/editor_prefs_title">
+		<CheckBoxPreference
+            android:key="line_number"
+			android:title="@string/show_line_num"
+            android:checked="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

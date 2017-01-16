@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ModPE Studio</string>
+	
+	<string name="editor_prefs_title">Editor</string>
+    <string name="show_line_num">Show line number</string>
+</resources>

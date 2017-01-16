@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+	<tk.thediamondyt.modpeide.widget.CodeEditor
+        android:id="@+id/editorView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dropDownWidth="400dp"
+        android:gravity="top|left"
+        android:scrollbars="vertical"
+        android:textSize="19sp"
+		android:padding="5dp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/transparent"
+        android:inputType="textMultiLine|textNoSuggestions" />   
+</RelativeLayout>
+
+

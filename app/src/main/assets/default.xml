@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme> <!-- TODO: Support for custom regex and theme name -->
+    <values>
+        <value name="function" color="#A81F5E" />
+        <value name="var" color="#A81F5E" />
+        <value name="const" color="#A81F5E" />
+        <value name="if" color="#A81F5E" />
+        <value name="else" color="#A81F5E" />
+        <value name="return" color="#A81F5E" />
+        <value name="new" color="#A81F5E" />
+        <value name="try" color="#A81F5E" />
+        <value name="catch" color="#A81F5E" />
+        <value name="true" color="#1991BA" />
+        <value name="false" color="#1991BA" />
+        <value name="null" color="#1991BA" />
+        <value name="undefined" color="#1991BA" />
+        <value name="1" color="#1991BA" />
+        <value name="2" color="#1991BA" />
+        <value name="3" color="#1991BA" />
+        <value name="4" color="#1991BA" />
+        <value name="5" color="#1991BA" />
+        <value name="6" color="#1991BA" />
+        <value name="7" color="#1991BA" />
+        <value name="8" color="#1991BA" />
+        <value name="9" color="#1991BA" />
+        <value name="0" color="#1991BA" />
+    </values>
+</theme>

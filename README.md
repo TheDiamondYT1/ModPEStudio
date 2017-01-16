@@ -1,11 +1,13 @@
 # ModPE Studio
 ModPE Studio is an Android app for creating Minecraft - Pocket Edition mods
 
-### Features
+### Features (Working)
 * FAST Syntax Highlighting
 * Line Numbers
 * Material Design  
 *...and more to come!*
+
+**NOT WORKING YET: Replacing text (Crashes)**
 
 ###  Credits
 ---
